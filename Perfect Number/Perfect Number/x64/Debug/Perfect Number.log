@@ -1,0 +1,3 @@
+﻿  Perfect Number.cpp
+C:\Users\mosta\source\repos\Perfect Number\Perfect Number\Perfect Number.cpp(30,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Perfect Number.vcxproj -> C:\Users\mosta\source\repos\Perfect Number\x64\Debug\Perfect Number.exe
