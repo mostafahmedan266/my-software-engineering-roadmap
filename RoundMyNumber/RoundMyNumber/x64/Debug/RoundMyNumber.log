@@ -1,0 +1,3 @@
+﻿  RoundMyNumber.cpp
+C:\Users\mosta\source\repos\RoundMyNumber\RoundMyNumber\RoundMyNumber.cpp(22,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  RoundMyNumber.vcxproj -> C:\Users\mosta\source\repos\RoundMyNumber\x64\Debug\RoundMyNumber.exe
