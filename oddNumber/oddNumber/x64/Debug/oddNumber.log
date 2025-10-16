@@ -1,0 +1,4 @@
+﻿  oddNumber.cpp
+C:\Users\mosta\source\repos\oddNumber\oddNumber\oddNumber.cpp(12,6): warning C4101: 'd1': unreferenced local variable
+C:\Users\mosta\source\repos\oddNumber\oddNumber\oddNumber.cpp(12,10): warning C4101: 'd2': unreferenced local variable
+  oddNumber.vcxproj -> C:\Users\mosta\source\repos\oddNumber\x64\Debug\oddNumber.exe
